@@ -1,35 +1,5 @@
 # Pygame-Console
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Pyblix 
-Pygame Console
-View 1
 
-New view
-Beta
-Give feedback
-Filter by keyword or by field
-Todo
-0
-Add item
-In Progress
-0
-Add item
-Done
-1
-Pygame Console
-Add item
-
-You can use Ctrl + Space to add an item
- 
-Draft
-Pygame Console
-Markdown Editor
 ### Summary
 This project allows you to create a console for your Pygame project.
 
@@ -99,10 +69,3 @@ You can modify the console as you wish. Go to the `check_input` function and add
 * pygame_console.py
 * console_example.py
 * another_console_example.py
- Styling with Markdown is supported
-Assignees
-Status
-Done
-Convert to issue
-Archive
-Delete from project
